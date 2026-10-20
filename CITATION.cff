@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Climate-smart MSP assessment"
+abstract: "Code to assess the climate-smartness of Marine Spatial Planning scenarios using 3D analogue-based climate velocity, applied to three Italian pilot areas."
+type: software
+authors:
+  - family-names: Rizzi
+    given-names: Alessia
+    affiliation: "CNR-ISMAR, Institute of Marine Sciences, National Research Council of Italy"
+repository-code: "https://github.com/alessiarizzi/climate-smart-MSP"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-20"
+keywords:
+  - marine spatial planning
+  - climate-smart
+  - climate velocity
+  - climate refugia
+  - Mediterranean Sea
+references:
+  - type: article
+    title: ""
+    authors:
+      - family-names: Rizzi
+        given-names: Alessia
+      - family-names: Gissi
+        given-names: Elena
+    journal: ""
+    volume: 
+    start: 
+    year: 
+    doi: ""

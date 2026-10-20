@@ -1,0 +1,14 @@
+name: climate-smart-msp
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - rioxarray
+  - geopandas
+  - shapely
+  - pyogrio
+  - matplotlib
